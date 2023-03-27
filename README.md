@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Github Project Emprendar](https://github.com/MauroMoyano/Emprendar_Front)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning python and typescript 
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
