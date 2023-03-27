@@ -12,10 +12,10 @@
 - 🌱 I’m currently learning python and typescript 
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything, my hobbie print 3D
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I have a vice with ctrl
   
 
 <br/>  
