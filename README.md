@@ -15,7 +15,7 @@
 - ❓ Ask me about anything, my hobbie print 3D
   
 
-- ⚡ Fun fact: I have a vice with ctrl
+- ⚡ Fun fact: I have a vice with ctrl key
   
 
 <br/>  
